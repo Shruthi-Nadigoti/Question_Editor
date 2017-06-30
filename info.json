@@ -1,0 +1,8 @@
+{
+    "identifier": "question_editor",
+    "name": "Question Editor",
+    "author": "shruthi",
+    "license": "-",
+    "description": "A Question Editor Plugin.",
+    "version": "1.0.0"
+}
